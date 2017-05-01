@@ -8,5 +8,3 @@ output:
   pdf_document:
     toc: false
 ---
-
-## Are the A/B test results you find correct?
